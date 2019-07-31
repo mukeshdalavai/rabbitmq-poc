@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldSpringConsumer/HelloWorldSpringConsumer.iml" filepath="$PROJECT_DIR$/HelloWorldSpringConsumer/HelloWorldSpringConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMq1to1.iml" filepath="$PROJECT_DIR$/RabbitMq1to1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" filepath="$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" />
+    </modules>
+  </component>
+</project>
